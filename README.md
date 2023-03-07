@@ -4,7 +4,6 @@
 -------------------------
 1. Sanjith Kumar V
 2. Sagar S
-3. Rakesh C(hello)
+3. Rakesh C
 
-
-- Branch name -sagar
+**Done few changes**
